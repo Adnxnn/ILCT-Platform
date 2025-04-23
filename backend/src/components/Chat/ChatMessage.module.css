@@ -1,0 +1,33 @@
+.chatMessage {
+  margin: 8px;
+  padding: 12px;
+  border-radius: 8px;
+  background-color: #f0f0f0;
+  max-width: 70%;
+}
+
+.ownMessage {
+  margin-left: auto;
+  background-color: #dcf8c6;
+}
+
+.messageHeader {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4px;
+  font-size: 0.8rem;
+}
+
+.sender {
+  font-weight: bold;
+  color: #2c2c2c;
+}
+
+.timestamp {
+  color: #666;
+}
+
+.messageContent {
+  word-wrap: break-word;
+  color: #000;
+}
