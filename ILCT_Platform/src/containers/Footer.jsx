@@ -44,7 +44,7 @@ const Footer = () => {
         },
         {
             icon: <GitHubIcon />,
-            href: 'https://github.com/Adnxnn',
+            href: 'https://github.com/Adnxnn/ILCT-Platform',
             label: 'GitHub',
         },
         {
